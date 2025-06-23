@@ -11,6 +11,11 @@ A smart solar panel tracking system to optimize energy capture by automatically 
 - Automatically detects sunlight direction using LDRs
 - Adjusts solar panel position with servo motors
 - Improves energy output compared to fixed panels
+  
+## 🖥️ Arduino Code
+The Arduino code for this project is available in the file: `solar_tracker.ino`
+- It reads light intensity from LDR sensors and rotates the servo motor accordingly.
+- Upload this file using Arduino IDE.
 
 ## 🚀 How to Run
 1. Upload the Arduino code to your Arduino board.
