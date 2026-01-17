@@ -23,4 +23,4 @@ The Arduino code for this project is available in the file: `solar_tracker.ino`
 3. Power the setup and observe the solar panel moving to track sunlight.
 
 ## 🔗 Circuit Diagram
-[View on Tinkercad](https://www.tinkercad.com/things/your-circuit-link)
+[View on Tinkercad](https://www.tinkercad.com/things/jQmA183YRMX-r-and-d-project?sharecode=Smga8If7fkHn-OJlehrO4p1UESoj-NmjcMMSWJiN6zI)
